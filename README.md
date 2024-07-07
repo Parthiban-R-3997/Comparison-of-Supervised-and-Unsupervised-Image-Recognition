@@ -1,5 +1,3 @@
-Here's the content properly aligned and formatted in Markdown:
-
 # Comparison of Supervised and Unsupervised Image Recognition
 
 ## Image Classification and Denoising with CIFAR-10
